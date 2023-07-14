@@ -10,3 +10,5 @@ Finger Print Sensor (https://www.adafruit.com/product/751)
 Liquid Crystal Display 16×2
 
 Connecting Wires
+
+youtube: youtu.be/Pv_ZpUe7_aw
