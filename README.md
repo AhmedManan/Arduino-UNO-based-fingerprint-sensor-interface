@@ -11,4 +11,4 @@ Liquid Crystal Display 16×2
 
 Connecting Wires
 
-youtube: youtu.be/Pv_ZpUe7_aw
+youtube: https://youtu.be/Pv_ZpUe7_aw
