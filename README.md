@@ -13,7 +13,7 @@ This project demonstrates the interface between a fingerprint sensor and an Ardu
 - [Project Description](#project-description)
 - [Circuit Diagram](#circuit-diagram)
 - [YouTube Video](#youtube-video)
-- [License](#license)
+- [Simulation](#simulation)
 
 ## Project Components
 
@@ -70,6 +70,6 @@ In this implementation of fingerprint sensor interface with Arduino Uno board. F
 
 https://youtu.be/Pv_ZpUe7_aw
 
-## License
+## Simulation
 
-You are free to use this project for personal purposes. 😇
+To simulate the project on proteus please watch the youtube tutorial video.
